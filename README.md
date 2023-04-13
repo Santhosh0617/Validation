@@ -1,2 +1,2 @@
 # Wanderlust
-<a href="https://github.com/Santhosh0617/Wanderlust/edit/main/README.md">Video</a>
+Video Demonstration - https://drive.google.com/file/d/11swHR0SAT0mT2gVBcyoGjSFYnKGbqx1i/view
