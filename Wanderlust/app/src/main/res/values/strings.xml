@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    destination 01
+    <string name="place_1">Bali </string>
+    <string name="plan">7days/2persons</string>
+    <string name="description">Super saver pack with less than $10000</string>
+
+
+    destination 02
+    <string name="place_2">Paris </string>
+    <string name="title_activity_bali">BaliActivity</string>
+
+
+    destination 03
+    <string name="place_3">Singapore </string>
+    <string name="title_activity_paris">ParisActivity</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+</resources>
